@@ -18,10 +18,9 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 # About The Allie Bellew Collection
-
+{% include feature/image.html objectid="alliebellew010" %}
 See [My Website](https://alexjberinger.com) for detailed information about my book.
 
-{% include feature/image.html objectid="alliebellew_002" width="75" %}
 
 
 
