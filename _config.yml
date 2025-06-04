@@ -23,7 +23,7 @@ title: Allie Bellew
 tagline: Comics and cartoons
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Allie Bellew was the earliest identified woman cartoonist in the United States and daughter of the prolific cartoonist Frank Bellew. This collection compiles her comics and cartoons from sources including Harper's Bazar, Harper's Weekly, and elsewhere.
+description: "Allie Bellew was the earliest identified woman cartoonist in the United States and daughter of the prolific cartoonist Frank Bellew. This collection compiles her comics and cartoons from sources including Harper's Bazar, Harper's Weekly, and elsewhere."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: american history; comics; cartoons; women's history; nineteenth century
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -34,7 +34,7 @@ author: Alex Beringer
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: DHSI Meta Data for Beringer (Allie Bellew Materials) - Allie Bellew 
+metadata: alliebellew_metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
