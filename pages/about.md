@@ -21,11 +21,7 @@ padding: 6em
 
 See [My Website](https://alexjberinger.com) for detailed information about my book.
 
-{% include feature/image.html objectid="alliebellew_002" width="75" %} 
+{% include feature/image.html objectid="alliebellew_002" width="75" %}
 
-{% include feature/accordion.html title1="This is an example of accordion" text1=example1 title2="Section two" text2=example2 title3="Section three" text3=example3 %}
-{% include feature/image.html objectid="demo_001" %}
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include feature/alert.html text="This is an alert as an example" color="warning" align="center" %}
-{% include cb/about_the_about.md %} 
+
