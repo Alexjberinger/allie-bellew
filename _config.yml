@@ -51,9 +51,9 @@ metadata: alliebellew_metadata
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: 
-organization-link: 
-organization-logo-banner: 
-organization-logo-nav: 
+organization-link: https://www.alexjberinger.com
+organization-logo-banner: https://static.wixstatic.com/media/f6469f_3e4d62fc897741cbaed91aa03e506bbe~mv2.png/v1/fill/w_136,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Dog%20Days%20Icon_edited.png
+organization-logo-nav: https://static.wixstatic.com/media/f6469f_3e4d62fc897741cbaed91aa03e506bbe~mv2.png/v1/fill/w_136,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Dog%20Days%20Icon_edited.png
 
 ##########
 # ROBOTS EXCLUDE
